@@ -18,7 +18,7 @@ e explorando C# em projetos mais complexos.
 experiência com testes de qualidade e desenvolvimento front-end.
 
 ### Contato
-📫 Você pode me alcançar através do [LinkedIn]([inserir-link-aqui](https://www.linkedin.com/in/wiliancirillo/)) ou via email no endereço wilian@hey.com.
+📫 Você pode me alcançar através do [LinkedIn]([inserir-link-aqui](https://www.linkedin.com/in/wiliancirillo/)) ou via email no endereço me@wilian.io.
 
 ### Mais Sobre Mim
 😄 Pronomes: ele/dele
