@@ -1,18 +1,19 @@
 # 👋 Olá, sou @wiliancirillo
 
 ### Sobre Mim
-Sou um profissional em busca de melhoramento contínuo.
+Sou um desenvolvedor focado no aprendizado contínuo e em aplicar as melhores práticas da comunidade de desenvolvimento.
 
 ### Interesses
-👀 Apaixonado por tecnologia e inovação.
+👀 Apaixonado por tecnologia e inovação, especialmente no ecossistema de desenvolvimento web e tecnologias emergentes.
 
 ### Colaborações
-💞️ Busco colaborar em projetos que estejam alinhados com meu aprendizado atual, especialmente aqueles que possam beneficiar-se de minha 
-experiência com testes de qualidade e desenvolvimento front-end.
+💞️ Busco colaborar em projetos que estejam alinhados com meu aprendizado atual, incluindo Ruby on Rails, Phoenix, desenvolvimento de aplicações web e testes de qualidade.
 
 ### Contato
-📫 Via email no endereço wilian@hey.com.
+📫 Você pode me contatar pelo e-mail: [wilian@hey.com](mailto:wilian@hey.com)
 
 ### Mais Sobre Mim
-😄 Pronomes: ele/dele
-⚡ Fato curioso: Sou um entusiasta de tecnologias emergentes e adoro discutir sobre as últimas tendências em desenvolvimento de software, toco violão e canto.
+- 😄 **Pronomes**: ele/dele
+- 🎸 **Curiosidade**: Além de programar, gosto de tocar violão e cantar nas horas vagas.
+- 💬 **Fato curioso**: Sou entusiasta das tendências mais recentes em desenvolvimento de software e adoro trocar ideias sobre inovação.
+
